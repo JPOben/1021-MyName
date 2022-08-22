@@ -1,8 +1,9 @@
-# Template
+# MyName
 
-- Create a program called `.java`
-- Prompt the user for 
+- Create a program called `MyName.java`
+- Create a variable that is your first name
+- Create a variable that is your last name
+- Output your full name in one print statement
 
-***Example Input:***\
-\
-***Example Output:***
+***Example Output:***\
+Will Smith
