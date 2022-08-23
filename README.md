@@ -1,5 +1,7 @@
 # MyName
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `MyName.java`
 - Create a variable that is your first name
 - Create a variable that is your last name
