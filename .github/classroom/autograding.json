@@ -5,7 +5,7 @@
       "setup": "javac MyName.java",
       "run": "java MyName",
       "input": "",
-      "output": "^[a-zA-Z]+ [a-zA-Z]+$",
+      "output": "^([a-zA-Z]+ )+[a-zA-Z\\-]+$",
       "comparison": "regex",
       "timeout": 10,
       "points": null
